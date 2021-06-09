@@ -7,4 +7,4 @@ It is a car racing game that was created using HTML, CSS, JavaScript and jQuery<
 
 Features:</br>
 1. For single player, movement is with the arrow keys.<br>
-2. For dual player, movement is with WASD or arrow keys depending on which side of the screen you are playing.</br>
+2. For dual player, movement is with W A S D or arrow keys depending on which side of the screen you are playing.</br>
